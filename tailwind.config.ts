@@ -61,6 +61,24 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				ataraxy: {
+					purple: {
+						light: '#d6bcfa',
+						DEFAULT: '#9b87f5',
+						secondary: '#7e69ab',
+						dark: '#6e59a5',
+						darker: '#1a1f2c'
+					},
+					blue: {
+						light: '#d3e4fd'
+					},
+					green: {
+						light: '#f2fce2'
+					},
+					gray: {
+						DEFAULT: '#8e9196'
+					}
 				}
 			},
 			borderRadius: {
